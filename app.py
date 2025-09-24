@@ -310,7 +310,13 @@ def get_intents():
         'intents': lbl_encoder.classes_.tolist()
     })
 
-#if __name__ == '__main__':
- #   print("Starting MediBot Chatbot API (Based on working implementation)...")
-  # app.run(host='0.0.0.0', port=5000, debug=True)
+@app.route("/", methods=["GET"])
+def root():
+    """Root endpoint for Render check"""
+    return jsonify({
+        "success": True,
+        "message": "MediBot API is live and running!",
+        "endpoints": ["/chat", "/voice/stt", "/health", "/intents"]
+    })
+
 application = app
