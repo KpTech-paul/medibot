@@ -1,0 +1,499 @@
+{
+    "intents": 
+        [
+            {
+            "tag": "heart_attack_symptoms",
+            "patterns": [
+                "What are the symptoms of a heart attack in pregnancy?",
+                "Signs of heart attack",
+                "What are the symptoms of a heart attack in menopause?",
+                "What are the signs of a heart attack?",
+                "heart attack warning symptoms",
+                "How do I know if I'm having a heart attack?",
+                "Children heart attack symptoms",
+                "What does a heart attack feel like?",
+                "What are the symptoms of a heart attack in children?",
+                "Heart attack symptoms for children",
+                "Heart attack symptoms for women",
+                "Heart attack warning signs",
+                "What are the symptoms of a heart attack in women?",
+                "heart attack warning indications",
+                "Menopause heart attack symptoms",
+                "Heart attack symptoms",
+                "symptoms of heart attack",
+                "What are the symptoms of a heart attack?",
+                "Heart attack symptoms for menopause",
+                "what are the symptoms of a heart attack?",
+                "Women heart attack symptoms",
+                "what are the indications of a heart attack?",
+                "Chest pain heart attack",
+                "Pregnancy heart attack symptoms",
+                "Heart attack symptoms for pregnancy",
+                "indications of heart attack"
+            ],
+            "responses": [
+                "Common symptoms include chest pain, shortness of breath, and nausea.",
+                "Signs of a heart attack can include chest pain, shortness of breath, and discomfort in other areas of the upper body.",
+                "Heart attack symptoms typically include chest pain or pressure, shortness of breath, nausea, and pain radiating to the arm, jaw, or back."  
+            ]
+            },
+            {
+            "tag": "silent_heart_attack",
+            "patterns": [
+                "Can you have a heart attack without knowing?",
+                "silent heart attack indications",
+                "Silent heart attack symptoms",
+                "Heart attack without chest pain",
+                "silent heart attack symptoms",
+                "Silent heart attack signs",
+                "What is a silent heart attack?"
+            ],
+            "responses": [
+                "Yes, silent heart attacks can occur without obvious symptoms.",
+                "Silent heart attacks may not present typical symptoms but can still cause damage to the heart.",
+                "A silent heart attack is a heart attack that occurs without the typical symptoms, making it harder to recognize."
+            ]
+            },
+            {
+            "tag": "heart_attack_vs_cardiac_arrest",
+            "patterns": [
+                "Heart attack vs cardiac arrest",
+                "What is the difference between a heart attack and cardiac arrest?",
+                "Cardiac arrest vs heart attack",
+                "Difference between heart attack and cardiac arrest"
+            ],
+            "responses": [
+                "A heart attack occurs when blood flow to the heart is blocked, while cardiac arrest is when the heart stops beating.",
+                "A heart attack is a circulation problem where blood flow is blocked, while cardiac arrest is an electrical problem where the heart stops beating.",
+                "Heart attack and cardiac arrest are different: heart attack is blocked blood flow, cardiac arrest is when the heart stops."
+            ]
+            },
+            {
+            "tag": "emergency_response",
+            "patterns": [
+                "First aid heart attack",
+                "What should I do if someone is having a heart attack?",
+                "What should I do if I suspect someone is having a heart attack?",
+                "Emergency response heart attack",
+                "Heart attack emergency",
+                "Call 912 heart attack"
+            ],
+            "responses": [
+                "Call emergency services immediately and start CPR if the person is unresponsive.",
+                "If someone is having a heart attack, call emergency services right away and provide first aid if trained.",
+                "In case of a heart attack, call emergency services immediately and begin CPR if the person is unconscious."
+            ]
+            },
+            {
+            "tag": "prevention",
+            "patterns": [
+                "Prevent heart disease",
+                "Reduce heart attack risk",
+                "How to prevent heart attack",
+                "Heart attack prevention",
+                "How can I reduce my risk of a heart attack?"
+            ],
+            "responses": [
+                "Maintain a healthy diet, exercise regularly, and avoid smoking.",
+                "Eating a balanced diet, exercising regularly, and managing stress can help.",
+                "To reduce heart attack risk: eat healthy, exercise regularly, avoid smoking, manage stress, and control blood pressure."
+            ]
+            },
+            {
+            "tag": "recovery",
+            "patterns": [
+                "Heart attack rehabilitation",
+                "What is the recovery process after a heart attack?",
+                "Heart attack recovery",
+                "Recovery after heart attack",
+                "Post heart attack care"
+            ],
+            "responses": [
+                "Recovery may include medication, lifestyle changes, and cardiac rehabilitation.",
+                "Recovery involves medication, lifestyle modifications, cardiac rehabilitation, and regular follow-up care.",
+                "Follow a heart-healthy diet low in saturated fats, salt, and added sugars."
+            ]
+            },
+            {
+            "tag": "risk_factors",
+            "patterns": [
+                "What are the risk factors for heart disease?",
+                "Heart disease risk factors",
+                "Risk factors for heart attack",
+                "Heart disease causes",
+                "What causes heart disease?"
+            ],
+            "responses": [
+                "Risk factors include high blood pressure, high cholesterol, smoking, and diabetes.",
+                "Risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, and family history.",
+                "Major risk factors include smoking, high blood pressure, high cholesterol, diabetes, obesity, and lack of exercise."
+            ]
+            },
+            {
+            "tag": "stroke_recognition",
+            "patterns": [
+                "Signs of stroke",
+                "stroke warning indications",
+                "symptoms of stroke",
+                "stroke warning warning signs",
+                "FAST stroke",
+                "warning signs of stroke",
+                "How can I recognize the signs of a stroke?",
+                "Stroke symptoms",
+                "Stroke warning signs",
+                "stroke warning symptoms",
+                "how can i recognize the symptoms of a stroke?",
+                "how can i recognize the warning signs of a stroke?"
+            ],
+            "responses": [
+                "Common signs of a stroke include sudden numbness, confusion, trouble speaking, and severe headache.",
+                "The FAST acronym can help remember stroke signs: Face drooping, Arm weakness, Speech difficulties, Time to call emergency services.",
+                "Recognizing stroke signs early is crucial: sudden numbness, confusion, trouble speaking, severe headache, and difficulty walking."
+            ]
+            },
+            {
+            "tag": "cholesterol",
+            "patterns": [
+                "High cholesterol heart disease",
+                "What is the role of cholesterol in heart disease?",
+                "Cholesterol and heart disease",
+                "LDL cholesterol",
+                "Cholesterol levels"
+            ],
+            "responses": [
+                "Cholesterol plays a crucial role in heart disease by contributing to plaque buildup in arteries.",
+                "High levels of LDL cholesterol can lead to atherosclerosis, increasing the risk of heart disease.",
+                "Maintaining healthy cholesterol levels is important for reducing heart disease risk."
+            ]
+            },
+            {
+            "tag": "smoking_effects",
+            "patterns": [
+                "Cigarettes heart disease",
+                "Smoking effects on heart",
+                "What is the impact of smoking on heart health?",
+                "Smoking and heart disease",
+                "Smoking heart health"
+            ],
+            "responses": [
+                "Smoking increases the risk of heart disease and stroke by damaging blood vessels.",
+                "Smoking contributes to the development of atherosclerosis, which can lead to heart attacks.",
+                "Quitting smoking can significantly improve heart health and reduce the risk of heart disease."
+            ]
+            },
+            {
+            "tag": "diabetes_heart",
+            "patterns": [
+                "Diabetes cardiovascular disease",
+                "Diabetes and heart disease",
+                "How does diabetes affect heart health?",
+                "Diabetes heart health"
+            ],
+            "responses": [
+                "Diabetes increases the risk of heart disease by contributing to high blood pressure and high cholesterol.",
+                "People with diabetes are at a higher risk for heart disease due to factors like obesity and inflammation.",
+                "Managing blood sugar levels is crucial for reducing the risk of heart disease in individuals with diabetes."
+            ]
+            },
+            {
+            "tag": "hypertension",
+            "patterns": [
+                "Blood pressure heart health",
+                "Hypertension heart disease",
+                "What is hypertension and how does it relate to heart disease?",
+                "High blood pressure heart disease"
+            ],
+            "responses": [
+                "Hypertension, or high blood pressure, is a major risk factor for heart disease.",
+                "High blood pressure can damage blood vessels and lead to heart disease over time.",
+                "Managing blood pressure through lifestyle changes and medication is important for heart health."
+            ]
+            },
+             {
+            "tag": "exercise_benefits",
+            "patterns": [
+                "What are the benefits of regular exercise for heart health?",
+                "Exercise benefits heart",
+                "Exercise heart health",
+                "Physical activity heart disease"
+            ],
+            "responses": [
+                "Regular exercise strengthens the heart, improves circulation, and helps maintain a healthy weight.",
+                "Exercise can lower blood pressure, improve cholesterol levels, and reduce stress.",
+                "Physical activity is key for heart health: it strengthens the heart muscle and improves blood flow."
+            ]
+            },
+            {
+            "tag": "diet_importance",
+            "patterns": [
+                "What is the importance of a balanced diet for heart health?",
+                "Diet heart health",
+                "Nutrition heart health",
+                "Healthy eating heart disease"
+            ],
+            "responses": [
+                "A balanced diet rich in fruits, vegetables, whole grains, and lean proteins supports heart health.",
+                "Eating a heart-healthy diet can help manage weight, blood pressure, and cholesterol levels.",
+                "A nutritious diet is essential for heart health: focus on whole foods and limit processed foods."
+            ]
+            },
+            {
+            "tag": "stress_management",
+            "patterns": [
+            "Stress heart health",
+            "Stress and heart disease",
+            "Stress management heart disease",
+            "How can stress management improve heart health?"
+            ],
+            "responses": [
+            "Managing stress is important for heart health. Techniques like meditation, exercise, and proper sleep can help reduce the risk of heart disease.",
+            "Stress can affect your heart. Practicing stress management such as deep breathing, yoga, and relaxation exercises can support heart health.",
+            "To protect your heart, manage stress through mindfulness, regular physical activity, and sufficient rest."
+            ]
+            },
+            {
+            "tag": "genetics",
+            "patterns": [
+            "Genetics heart disease",
+            "Family history heart disease",
+            "What is the role of genetics in heart disease?",
+            "Hereditary heart disease"
+            ],
+            "responses": [
+            "Genetics can influence your risk of heart disease, especially if you have a family history. Lifestyle factors still play a big role in prevention.",
+            "Family history may increase your heart disease risk, so regular check-ups and a healthy lifestyle are recommended.",
+            "While you can't change your genetics, monitoring your heart health and maintaining healthy habits can reduce risk."
+            ]
+            },
+            {
+            "tag": "heart_failure",
+            "patterns": [
+            "heart failure indications",
+            "Signs of heart failure",
+            "what are the symptoms of heart failure?",
+            "warning signs of heart failure",
+            "what are the indications of heart failure?",
+            "heart failure warning signs",
+            "What are the signs of heart failure?",
+            "Heart failure symptoms",
+            "Heart failure signs",
+            "what are the warning signs of heart failure?",
+            "heart failure symptoms",
+            "symptoms of heart failure"
+            ],
+            "responses": [
+            "Common signs of heart failure include shortness of breath, fatigue, swelling in legs or feet, and rapid heartbeat.",
+            "Heart failure symptoms may include persistent coughing, difficulty sleeping, and fluid buildup in the body.",
+            "If you experience sudden weight gain, swelling, or difficulty breathing, it may be a sign of heart failure—consult a doctor immediately."
+            ]
+            },
+            {
+            "tag": "monitoring_heart_health",
+            "patterns": [
+            "Monitor heart health",
+            "Home heart health monitoring",
+            "Heart health check",
+            "How can I monitor my heart health at home?"
+            ],
+            "responses": [
+            "You can monitor your heart health at home by checking your blood pressure, heart rate, and keeping track of any symptoms.",
+            "Regular exercise, a healthy diet, and monitoring vitals like blood pressure help maintain good heart health.",
+            "Home monitoring devices like blood pressure monitors and wearable heart rate trackers can help you track your heart health."
+            ]
+            },
+            {
+            "tag": "sleep_impact",
+            "patterns": [
+            "Sleep heart health",
+            "Poor sleep heart health",
+            "Sleep and heart disease",
+            "What is the impact of sleep on heart health?"
+            ],
+            "responses": [
+            "Poor sleep can increase the risk of heart disease, high blood pressure, and other cardiovascular problems.",
+            "Getting enough quality sleep is essential for heart health and overall well-being.",
+            "Sleep affects your heart by helping regulate blood pressure, stress hormones, and heart rate."
+            ]
+            },
+            {
+            "tag": "cardiac_rehabilitation",
+            "patterns": [
+            "Cardiac rehab",
+            "Heart rehabilitation",
+            "Cardiac rehabilitation",
+            "What is cardiac rehabilitation?"
+            ],
+            "responses": [
+            "Cardiac rehabilitation is a medically supervised program to help people recover after a heart attack, surgery, or heart failure.",
+            "It includes exercise, education, and counseling to improve heart health and prevent future problems.",
+            "Cardiac rehab helps strengthen your heart, improve circulation, and reduce the risk of further heart issues."
+            ]
+            },
+            {
+            "tag": "heart_tests",
+            "patterns": [
+            "Cardiac tests",
+            "Heart health tests",
+            "Heart disease tests",
+            "What are the common tests for heart disease?"
+            ],
+            "responses": [
+            "Common tests include ECG (electrocardiogram), echocardiogram, stress tests, and blood tests.",
+            "These tests help detect heart problems early and guide treatment decisions.",
+            "Your doctor may recommend tests based on your symptoms and risk factors for heart disease."
+            ]
+            },
+            {
+        "tag": "aspirin_heart",
+            "patterns": [
+            "Aspirin heart health",
+            "Aspirin heart disease",
+            "Aspirin prevention",
+            "What is the role of aspirin in heart health?"
+            ],
+            "responses": [
+            "Aspirin can help prevent blood clots, reducing the risk of heart attacks in certain people.",
+            "Do not take aspirin regularly without consulting a doctor, as it may have side effects.",
+            "Aspirin therapy is often prescribed for people with high risk of heart disease, under medical supervision."
+            ]
+            },
+            {
+            "tag": "hydration",
+            "patterns": [
+            "Water heart health",
+            "Fluids heart health",
+            "What is the importance of hydration for heart health?",
+            "Hydration heart health"
+            ],
+            "responses": [
+            "Proper hydration helps maintain healthy blood pressure and circulation.",
+            "Drinking enough water supports heart function and overall cardiovascular health.",
+            "Dehydration can stress the heart, so aim for adequate daily fluid intake."
+            ]
+            },
+            {
+            "tag": "arrhythmia",
+            "patterns": [
+            "what are the symptoms of arrhythmia?",
+            "Irregular heartbeat",
+            "Heart rhythm problems",
+            "What are the signs of arrhythmia?",
+            "Arrhythmia symptoms",
+            "what are the indications of arrhythmia?"
+            ],
+            "responses": [
+            "Arrhythmia can cause palpitations, dizziness, shortness of breath, or fainting.",
+            "Some arrhythmias are harmless, but others may increase the risk of stroke or heart failure.",
+            "Seek medical advice if you experience irregular heartbeats or unusual chest sensations."
+            ]
+            },
+            {
+            "tag": "what is heart attack",
+            "patterns": [
+            "Heart attack symptoms",
+            "What is a heart attack?",
+            "Heart attack definition"
+            ],
+            "responses": [
+            "A heart attack occurs when blood flow to part of the heart is blocked, causing damage to heart muscle.",
+            "Common symptoms include chest pain, shortness of breath, nausea, and pain in the arm, jaw, or back.",
+            "Immediate medical attention is critical if you suspect a heart attack."
+            ]
+            },
+            {
+            "tag": "alcohol_effects",
+            "patterns": [
+            "Drinking heart disease",
+            "Alcohol effects heart",
+            "Alcohol heart health",
+            "What is the impact of alcohol on heart health?"
+            ],
+            "responses": [
+            "Excessive alcohol can increase blood pressure, weaken the heart muscle, and raise the risk of heart disease.",
+            "Moderate drinking may have a small protective effect for some adults, but heavy drinking is harmful to your heart.",
+            "Limiting alcohol intake is important to maintain healthy heart function."
+            ]
+            },
+            {
+            "tag": "support_loved_one",
+            "patterns": [
+            "How can I support a loved one with heart disease?",
+            "Family support heart disease",
+            "Support heart disease",
+            "Help loved one heart disease"
+            ],
+            "responses": [
+            "Support can include encouraging healthy habits, attending appointments together, and offering emotional support.",
+            "Listening and helping your loved one manage stress and medication adherence is very helpful for heart health.",
+            "Being informed about their condition and providing encouragement for lifestyle changes can make a big difference."
+            ]
+            },
+            {
+            "tag": "greeting",
+            "patterns": [
+            "Good evening",
+            "Hello",
+            "How are you?",
+            "Hi",
+            "What's up?",
+            "Good morning",
+            "Good afternoon",
+            "Hey"
+            ],
+            "responses": [
+            "Hello! I'm your heart health assistant. How can I help you today?",
+            "Hi there! Ask me anything about heart health or heart attacks.",
+            "Hey! I'm ready to answer your questions about heart health."
+            ]
+            },
+            {
+            "tag": "goodbye",
+            "patterns": [
+            "Stop",
+            "Bye",
+            "Quit",
+            "Goodbye",
+            "Exit",
+            "Take care",
+            "See you later"
+            ],
+            "responses": [
+            "Goodbye! Take care of your heart!",
+            "See you later! Stay healthy.",
+            "Bye! Remember to prioritize your heart health."
+            ]
+            },
+            {
+            "tag": "thanks",
+            "patterns": [
+            "Thank you",
+            "Thank you so much",
+            "Appreciate it",
+            "Thanks a lot",
+            "Thanks"
+            ],
+            "responses": [
+            "You're welcome! I'm here to help with your heart health questions.",
+            "No problem! Stay safe and take care of your heart.",
+            "Anytime! Let me know if you have more questions about heart health."
+            ]
+            },
+            {
+            "tag": "emergency",
+            "patterns": [
+            "Emergency heart attack",
+            "Call 912",
+            "Chest pain emergency",
+            "I think I'm having a heart attack",
+            "Severe chest pain",
+            "Heart attack emergency",
+            "Ambulance"
+            ],
+            "responses": [
+            "If you suspect a heart attack, call emergency services immediately (912 in Rwanda) and seek medical help.",
+            "Chest pain or severe discomfort can be a sign of a heart attack. Call for emergency help right away.",
+            "Do not wait—get emergency medical attention immediately if experiencing heart attack symptoms."
+            ]
+            }
+    ]
+}
