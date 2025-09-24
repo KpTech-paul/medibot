@@ -7,3 +7,5 @@ scikit-learn;
 sounddevice;
 SpeechRecognition;
 tokenizers;
+gunicorn;
+
