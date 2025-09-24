@@ -1,10 +1,9 @@
-Python== 3.10
-tensorflow==2.20.0rc0
-Flask==2.3.3
-Flask-Cors==4.0.0
-nltk==3.9.1
-numpy==2.3.1
-scikit-learn==1.7.0
-sounddevice==0.5.2
-SpeechRecognition==3.14.3
-tokenizers==0.21.2
+tensorflow,
+Flask,
+Flask-Cors,
+nltk,
+numpy,
+scikit-learn,
+sounddevice,
+SpeechRecognition,
+tokenizers
